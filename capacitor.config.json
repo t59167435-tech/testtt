@@ -1,0 +1,8 @@
+{
+  "appId": "app.discipline.tracker",
+  "appName": "Discipline",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
